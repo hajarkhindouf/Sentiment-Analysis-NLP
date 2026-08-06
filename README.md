@@ -74,4 +74,4 @@ This project is licensed under the [MIT License](LICENSE), allowing for open col
 
 ---
 
-Crafted with precision and a passion for innovation by **Adil Shamim**.
+Crafted with precision and a passion for innovation by **Hajar KHINDOUF**.
